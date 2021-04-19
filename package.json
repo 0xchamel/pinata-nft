@@ -1,0 +1,24 @@
+{
+  "name": "pinata-nft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@pinata/sdk": "^1.1.13",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhChameleon/pinata-nft.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhChameleon/pinata-nft/issues"
+  },
+  "homepage": "https://github.com/zhChameleon/pinata-nft#readme"
+}
